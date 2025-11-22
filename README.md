@@ -6,5 +6,5 @@ I will add your email address to my notification list. Please use "PILOT code no
 
 ## Contact
 Momoko Shiraishi\
-University Email: <u>shiraishi@os.is.s.u-tokyo.ac.jp</u>\
-(Personal Email: <u>momoko.shiraishi36@gmail.com</u>)
+University email: <u>shiraishi@os.is.s.u-tokyo.ac.jp</u>\
+(Personal email: <u>momoko.shiraishi36@gmail.com</u>)
